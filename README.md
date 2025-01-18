@@ -23,4 +23,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcksghd)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 스탯
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmlcksghd&show_icons=true&theme=radical)
