@@ -19,5 +19,8 @@
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/nginx.png" alt="nginx" height="50px"/>
 </div>
 
-
+### 많이 사용한느 언어
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcksghd)](https://github.com/anuraghazra/github-readme-stats)
+
+### 스탯
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
