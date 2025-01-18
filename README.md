@@ -5,7 +5,7 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        <li> 갈등보단 협업, 책임감과 생산성으로 코드를 짜고 목표를 실현하는 방향성 있는 개발자 </li>
+        갈등보단 <strong>협업</strong>, <strong>책임감</strong>과 생산성으로 코드를 짜고 <strong>목표를 실현하는 방향성 있는 개발자</strong>
     </div> 
 </div>
 
