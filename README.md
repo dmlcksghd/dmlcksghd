@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=fbfbfb&height=240&text=Welcome%20to%20Uichan’s%20page&animation=twinkling&fontColor=434547&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=fbfbfb&height=180&text=Welcome%20to%20Uichan’s%20page&animation=twinkling&fontColor=434547&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 About Me </h2>  
@@ -38,6 +38,7 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uichan&layout=compact&bg_color=180,fbfbfb,00000000&title_color=434547&text_color=434547"
            /> </div> 
     </div>
+    
     
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmlcksghd&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
