@@ -5,7 +5,7 @@
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌱 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">
-        갈등보단 <strong>협업</strong>, <strong>책임감</strong>과 생산성으로 코드를 짜고 <strong>의미 있는 가치를 창출하는 개발자</strong><br>
+        갈등보단 <strong>협업</strong>, <strong>책임감</strong>, <strong>의미 있는 가치를 창출하는 개발자</strong><br>
         🎓 광주대학교 컴퓨터공학부 <br/>
         🎓 한국기술교육대학교 컴퓨터공학부(편입) <br/>
         🏫 신한 DS SW 아카데미 4기
